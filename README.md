@@ -1,4 +1,5 @@
 ## Sales-Finance-Analytics-for-AtliQ-Hardware-
+![Excel Logo](https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg)
 
 ## **📝Project Summary**
 
